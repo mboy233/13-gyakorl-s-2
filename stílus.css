@@ -1,0 +1,30 @@
+html
+{
+
+    border: 15px solid red;
+}
+
+
+
+div {
+    width: 400px;
+    height: 500px;
+    background-image: url(kutya.jpg);
+    background-repeat: no-repeat;
+    background-position: 200px 100px;
+    border: 1px solid blue;
+    border: 10px solid black;
+    background-attachment: scroll;
+    overflow: scroll;
+    margin-left: 50px;
+    
+}
+#par {
+    font-size: 60px;
+    text-transform: uppercase;
+    text-indent: 50px;
+    letter-spacing: -6px;
+}
+.oszt {
+    text-align: center;
+}
